@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @joshscott13
-- 👀 My passions lie in network and security automation - Terraform and Python make my world go round
-- 🌱 I’m driven by curiosity, and steered by passion! Always learning, always evolving my skillset
-- 📫 How to reach me: email via joshscott13@gmail.com
+# 👋 Hi, I’m Josh Scott
 
-<!---
-joshscott13/joshscott13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> *Driven by curiosity, steered by passion. Always learning, always evolving.*
+
+I am a Network & Security Automation Engineer focused on modernizing infrastructure. I bridge the gap between traditional networking and Cloud Native architecture, specializing in **SASE**, **Zero Trust**, and **SD-WAN** deployments.
+
+### 🏆 Certifications
+![AWS](https://img.shields.io/badge/AWS-Cloud_Foundations-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/KCNA-Certified-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+### 🛠 Tech & Architecture Stack
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+### 🔭 Current Focus
+* **Architecture:** Designing scalable SASE and Zero Trust frameworks.
+* **Automation:** Leveraging Python and Terraform to eliminate manual toil.
+* **Orchestration:** Managing containerized workloads with Kubernetes.
+
+---
+📫 **Connect with me:** [joshscott13@gmail.com](mailto:joshscott13@gmail.com)
